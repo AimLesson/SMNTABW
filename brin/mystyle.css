@@ -1,0 +1,17 @@
+h2{
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+h3{
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-bottom: 50px;
+}
