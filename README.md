@@ -1,6 +1,5 @@
-# Project Name
-
-Brief description or introduction to your project.
+# SISTEM MONITORING NILAI TEGANGAN DAN ARUS BERBASIS WEB
+Menampilkan dan mengamati data nilai tegangan dan nilai arus yang diperoleh dari suatu alat yang datanya dimasukan ke dalam database dan ditampilkan pada website serta Pengguna akan dapat mengunduh data tersebut dalam format file xlsx dan txt. Ini memungkinkan peneliti untuk melakukan analisis lebih mendalam di luar platform web.
 
 ## Table of Contents
 - [1. Visual Studio Code (VSCode)](#1-visual-studio-code-vscode)
